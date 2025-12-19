@@ -30,7 +30,7 @@ If you're here to actually end the world: Wrong repo. Try therapy instead. If yo
 1. Clone this repo:  
    ```
    git clone https://github.com/your-username/nuking-the-world.git
-   cd nuking-the-world
+   cd nuke_world
    ```
    (Replace with your actual repo URL, you lazy linker.)
 
