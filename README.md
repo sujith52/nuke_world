@@ -1,5 +1,5 @@
 # nuke_world
-honestly i am bored of tutorials so i built this crazy project (Dont laugh 😑) 
+honestly i am bored of tutorials so i built this crazy project (Dont laugh 😑).
 # https://tangerine-naiad-0df7cf.netlify.app/ 
 ## 👇 down below was grok created md. (I felt genuinely fun while reading.)
 
